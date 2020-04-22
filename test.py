@@ -10,4 +10,3 @@ def min():
 def info():
 	pass
 
-	
