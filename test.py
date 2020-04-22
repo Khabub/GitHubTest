@@ -7,4 +7,7 @@ def max():
 def min():
 	pass
 
+def info():
+	pass
+
 	
