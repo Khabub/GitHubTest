@@ -6,6 +6,7 @@ def max():
 
 def min():
 	a = 0
+	b = 10
 	pass
 
 def info():
